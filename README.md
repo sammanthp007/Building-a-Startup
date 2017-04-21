@@ -34,7 +34,7 @@ ergo
 
 A Business Model is how a company creates values for itself while delivering products or services to its customers.
 
-![Image](samplebusinessmodel.jpg)
+![Image](samplebusinessmodel.png)
 
 ### Value Proposition
 
