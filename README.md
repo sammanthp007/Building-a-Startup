@@ -48,17 +48,17 @@ Its not about your IDEA or PRODUCT, but its for **solving a need** for the **cus
 | Word Processing      | I wanna have a date      |
 | Communicating Problem  | I wanna talk to my friends      |
 
-#### Needs market is huge than Problems market.
+##### Needs market is huge than Problems market.
 
-## Customer Segment
+### Customer Segment
 
 Who are my customers and why would they buy?
 
 Your customers do not exist to buy, but you exist for them.
 
-### WHO ARE THEY?
-### WHY WOULD THEY BUY?
-### WHAT IS THEIR ARCHETYPE? (THEIR SOCIAL, GEOGRAPHIC, DEMOGRAPHIC)
+##### WHO ARE THEY?
+##### WHY WOULD THEY BUY?
+##### WHAT IS THEIR ARCHETYPE? (THEIR SOCIAL, GEOGRAPHIC, DEMOGRAPHIC)
 
 There can be different types of our customers. But on day 1, all we have are hypothesis.
 
