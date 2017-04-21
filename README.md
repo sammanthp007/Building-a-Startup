@@ -64,3 +64,10 @@ There can be different types of our customers. But on day 1, all we have are hyp
 
 ## Channels
 
+How does your product/service get to your customer? (We use distribution channels to do that).
+
+## Customer Relationships
+
+How does a company get, keep, and grow customers?
+
+![Image](getkeepgrow.png)
